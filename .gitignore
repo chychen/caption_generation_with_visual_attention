@@ -1,3 +1,9 @@
+model/
+log_hard/
+log_soft/
+image/
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
